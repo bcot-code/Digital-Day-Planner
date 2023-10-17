@@ -5,8 +5,10 @@
 - [Description](#description)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
+- [Screenshot of the Application](#screenshot-of-the-application)
+- [Link to Deployed Site on GitHub Pages](#link-to-deployed-site-on-github-pages)
 
-Create a simple calendar application that allows a user to save events for each hour of a typical working day (9am&ndash;5pm) by modifying starter code.
+Create a simple calendar application that allows a user to save events for each hour of a typical working day (9am-5pm) by modifying starter code.
 
 ## User Story
 
