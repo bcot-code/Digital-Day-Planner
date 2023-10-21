@@ -42,4 +42,4 @@ THEN the saved events persist
 
 ![Screeshot.]()
 
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+© 2023 by Bcode All Rights Reserved.
